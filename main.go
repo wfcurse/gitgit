@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("Project updated")
 
 	fmt.Println("Project updated2")
+
+	fmt.Println("Project updated3")
 }

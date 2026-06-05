@@ -17,5 +17,5 @@ func main() {
 
 	fmt.Println("Project updated5 -- newdev")
 
-	fmt.Println("Project updated5 -- newdev1")
+	fmt.Println("Project updated6 -- newdev1")
 }
